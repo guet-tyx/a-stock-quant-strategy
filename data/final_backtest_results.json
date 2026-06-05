@@ -1,0 +1,39 @@
+{
+  "quad_combined": {
+    "total_return": 415.9,
+    "annual_return": 41.26,
+    "annual_vol": 28.61,
+    "sharpe": 1.44,
+    "max_drawdown": -21.38,
+    "calmar": 1.93,
+    "win_rate": 69.0
+  },
+  "opt_combined": {
+    "total_return": 472.74,
+    "annual_return": 44.4,
+    "annual_vol": 28.53,
+    "sharpe": 1.56,
+    "max_drawdown": -17.86,
+    "calmar": 2.49,
+    "win_rate": 63.8
+  },
+  "full_model": {
+    "total_return": 288.84,
+    "annual_return": 31.21,
+    "annual_vol": 29.48,
+    "sharpe": 1.06,
+    "max_drawdown": -32.65,
+    "calmar": 0.96,
+    "win_rate": 60.7
+  },
+  "best_strategy": {
+    "name": "ML因子策略",
+    "metrics": {
+      "annual_return": 38.7251419029087,
+      "max_drawdown": -9.919706999675133,
+      "sharpe": 8.194500734468289,
+      "calmar": 3.90385944909229,
+      "win_rate": 65.15151515151516
+    }
+  }
+}
