@@ -1,0 +1,25 @@
+{
+  "core_metrics": {
+    "annual_return": 34.83,
+    "max_drawdown": -16.78,
+    "sharpe": 1.43,
+    "calmar": 2.08,
+    "win_rate": 67.2
+  },
+  "risk_metrics": {
+    "annual_vol": 24.35,
+    "var_95": -7.02,
+    "cvar_95": -10.98,
+    "skewness": 0.36,
+    "kurtosis": 1.93
+  },
+  "market_env_performance": {},
+  "stress_test": {},
+  "trading_cost": {
+    "commission_rate": 0.0003,
+    "slippage_rate": 0.001,
+    "annual_cost": 2.16,
+    "net_annual_return": 32.67,
+    "net_sharpe": 1.34
+  }
+}
